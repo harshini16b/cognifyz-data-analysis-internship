@@ -1,0 +1,12 @@
+cognifyz-data-analysis-internship/
+├── README.md           ← already there
+├── Dataset_.csv
+├── Level1/
+│   ├── Level1_Tasks.py
+│   └── Level1_Analysis.png
+├── Level2/
+│   ├── Level2_Tasks.py
+│   └── Level2_Analysis.png
+└── Level3/
+    ├── Level3_Tasks.py
+    └── Level3_Analysis.png
